@@ -1,4 +1,4 @@
 ## Coursework
 
-[Statistical Computing](https://josegonzalezstatistics.github.io/git_hub/Computational/534_project.html)
+[Statistical Computing](https://josegonzalezstatistics.github.io/JoseLuisGonzalez/Computational/534_project.html)
 
