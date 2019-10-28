@@ -1,0 +1,10 @@
+theme: jekyll-theme-minimal
+title: Jose Luis Gonzalez
+description: M.S. Statistics Portfolio
+logo: assets/img/profile.png
+plugins:
+  - jekyll-relative-links
+  - jekyll-seo-tag
+relative_links:
+  enabled: true
+  collections: true

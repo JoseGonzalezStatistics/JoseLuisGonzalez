@@ -1,0 +1,8 @@
+# R files
+.Rhistory
+.sass-cache/
+
+
+# other files
+.DS_Store
+
