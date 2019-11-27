@@ -4,4 +4,4 @@
 
 ## Projects
 
-[Zero Inflated Poisson Regression](https://josegonzalezstatistics.github.io/JoseLuisGonzalez/Projects/zeroinflpoiss_project.html)
+[Zero Inflated Poisson Regression](https://josegonzalezstatistics.github.io/JoseLuisGonzalez/Projects/ZeroInflPoiss/zeroinflpoiss_project.html)
