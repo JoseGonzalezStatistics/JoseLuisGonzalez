@@ -2,7 +2,7 @@
 
 ### Overview
 
-
+The Zero Inflated Poisson (ZIP) model, established by Diane Lambert, aims to independently model excess 'structural zeros' from an underlying Poisson distribution in count data. The model is mathematically derived and applied to real-world data from Portuguese Schools. Furthermore, simulations and Goodness-of-fit tests are performed to visually and statistically measure ZIP's performance against analogous models such as Poisson and Negative Binomial. 
 
 ### Paper
 
