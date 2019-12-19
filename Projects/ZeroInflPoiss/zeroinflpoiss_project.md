@@ -10,4 +10,4 @@ The Zero Inflated Poisson (ZIP) model, established by Diane Lambert, aims to ind
 
 ### Slide Deck
 
-[Zero Inflated Poisson Presentation](https://drive.google.com/open?id=1kWfy1E7HRhg2hS1P2j1eKvPTgs5f5Lbi) 
+[Zero Inflated Poisson Presentation](https://drive.google.com/open?id=1sNno6QBbqtLqm1htY_LPfE3J7_m13Jc-) 
