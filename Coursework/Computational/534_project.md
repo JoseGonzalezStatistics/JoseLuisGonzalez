@@ -6,18 +6,18 @@ The covers the following topics: (1) Optimization methods including Newton, Fish
 
 ### Assignments
 
-[Assignment 1](https://josegonzalezstatistics.github.io/JoseLuisGonzalez/Coursework/Computational/534_HW_1.html) 
+[Bivariate Normal Approximations](https://josegonzalezstatistics.github.io/JoseLuisGonzalez/Coursework/Computational/534_HW_1.html) 
 
-[Assignment 3 pt.1](https://josegonzalezstatistics.github.io/JoseLuisGonzalez/Coursework/Computational/534_HW_3_pt1.html)
+[Using Differentials and Generating Data](https://josegonzalezstatistics.github.io/JoseLuisGonzalez/Coursework/Computational/534_HW_3_pt1.html)
 
-[Assignment 4](https://josegonzalezstatistics.github.io/JoseLuisGonzalez/Coursework/Computational/534_HW_4.html)
+[Iteratively Reweighted Least Squares](https://josegonzalezstatistics.github.io/JoseLuisGonzalez/Coursework/Computational/534_HW_4.html)
 
-[Assignment 5](https://josegonzalezstatistics.github.io/JoseLuisGonzalez/Coursework/Computational/534_HW_5.html)
+[EM for Gaussian Mixtures](https://josegonzalezstatistics.github.io/JoseLuisGonzalez/Coursework/Computational/534_HW_5.html)
 
 
-[Assignment 7 pt.1](https://josegonzalezstatistics.github.io/JoseLuisGonzalez/Coursework/Computational/534_HW_7_pt1.html)
+[Sampling Methods: Accept/Reject and SIR](https://josegonzalezstatistics.github.io/JoseLuisGonzalez/Coursework/Computational/534_HW_7_pt1.html)
 
-[Assignment 8 pt.2](https://josegonzalezstatistics.github.io/JoseLuisGonzalez/Coursework/Computational/534_HW_8_pt2.html)
+[Gibbs Sampling](https://josegonzalezstatistics.github.io/JoseLuisGonzalez/Coursework/Computational/534_HW_8_pt2.html)
 
 ### Exams
 
