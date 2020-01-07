@@ -2,7 +2,7 @@
 
 ### Overview
 
-The covers the following topics: (1) Optimization methods including Newton, Fisher-scoring, secant, quasi-Newton, EM, and iteratively reweighted least squares, (2) combinatorial optimization including simulated annealing and genetic algorithm, (3) Simulation and Monte Carlo integration, (4) Markov chain Monte Carlo, and (5) bootstrapping 
+This course covers the following topics: (1) Optimization methods including Newton, Fisher-scoring, secant, quasi-Newton, EM, and iteratively reweighted least squares, (2) combinatorial optimization including simulated annealing and genetic algorithm, (3) Simulation and Monte Carlo integration, (4) Markov chain Monte Carlo, and (5) bootstrapping 
 
 ### Assignments
 
