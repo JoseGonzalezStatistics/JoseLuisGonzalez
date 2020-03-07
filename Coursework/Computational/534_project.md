@@ -6,8 +6,6 @@ This course covers the following topics: (1) Optimization methods including Newt
 
 ### Assignments
 
-[Bivariate Normal Approximations](https://josegonzalezstatistics.github.io/JoseLuisGonzalez/Coursework/Computational/534_HW_1.html) 
-
 [Using Differentials and Generating Data](https://josegonzalezstatistics.github.io/JoseLuisGonzalez/Coursework/Computational/534_HW_3_pt1.html)
 
 [Iteratively Reweighted Least Squares](https://josegonzalezstatistics.github.io/JoseLuisGonzalez/Coursework/Computational/534_HW_4.html)
